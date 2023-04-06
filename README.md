@@ -3,7 +3,7 @@ I'm a research engineer at the University of Iowa, and I use R and RStudio to pe
 
 
 <p align="center">
-  <img src="Picture1.jpg" width="45%" />
+  <img src="Picture1.jpg" width="250" height="400" style="float:right;margin-right:10px;"/>
   <img src="TemporalPCB11.png" width="45%" /> 
 </p>
 
