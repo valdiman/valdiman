@@ -2,9 +2,7 @@
 
 I'm a research engineer at the University of Iowa, and I use R and RStudio to perform statistical analyses and develop mathematical models to try to understand the behavior of polychlorinated biphenyls (PCBs) and other persistent organic pollutants in the environment, as well as in cell experiments.
 
-<p align="center">
-  <img src="Picture1.jpg" width = "500" height = "300">
-</p>
+<img src="Picture1.jpg" width="400" height="300" style="float:left;margin-right:10px;">
 
 
 <!--
