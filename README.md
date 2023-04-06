@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm a research engineer at the University of Iowa, and I use R and RStudio to perform statistical analyses and develop mathematical models to try to understand the behavior of polychlorinated biphenyls (PCBs) and other persistent organic pollutants in the environment, as well as in cell experiments.
+I'm a research engineer at the University of Iowa, and I use R and RStudio to perform statistical analyses and develop mathematical models to try to understand the behavior of polychlorinated biphenyls (PCBs) and other persistent organic pollutants in the environment, as well as in cell experiments. Visit my Google Schoolar [here](https://scholar.google.com/citations?hl=en&user=b5s4X1cAAAAJ&view_op=list_works&sortby=pubdate).
+
 
 <img src="Picture1.jpg" width="250" height="400" style="float:right;margin-right:10px;">
 
