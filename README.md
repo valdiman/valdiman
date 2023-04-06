@@ -2,6 +2,8 @@
 
 I'm a research engineer at the University of Iowa, and I use R and RStudio to perform statistical analyses and develop mathematical models to try to understand the behavior of polychlorinated biphenyls (PCBs) and other persistent organic pollutants in the environment, as well as in cell experiments.
 
+![Picture1](Picture1.jpg) 
+
 <!--
 **valdiman/valdiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
