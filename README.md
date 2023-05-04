@@ -5,7 +5,8 @@ I'm a research engineer at the University of Iowa, and I use R and RStudio to pe
 <p align="center">
   <img src="Picture1.jpg" width="125" height="200" style="float:right;margin-right:10px;"/>
   <img src="TemporalPCB11.png" width="45%" text for image"/>
-  <figcaption>Left photograph shows predicted air/water fluxes of total PCBs from IHSC and left plot shows the temporal distribution of airborne PCB11 in Chicago for 2009 [REFs: Martinez et al., (2002) (https://doi.org/10.1016/j.scitotenv.2021.151505) and Martinez et al., (2019) (https://doi.org/10.1016/j.envpol.2018.10.048)].</figcaption>                                                        
+  <figcaption>Left photograph shows predicted air/water fluxes of total PCBs from IHSC and left plot shows the temporal distribution of airborne PCB11 in Chicago for 2009 [REFs: Martinez et al., (2002) (https://doi.org/10.1016/j.scitotenv.2021.151505) and Martinez et al., (2019) (https://doi.org/10.1016/j.envpol.2018.10.048)].</figcaption>              
+                                                          ![Flux](https://raw.githubusercontent.com/valdiman/valdiman/main/Screenshot%202023-05-04%20at%201.33.27%20PM.png)
 </p>
 
 <!--
